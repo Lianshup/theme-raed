@@ -163,6 +163,24 @@
             "value": null,
             "variant": "h1",
             "icon": "sicon-format-text"
+        },
+        {
+            "id": "title_1",
+            "type": "static",
+            "format": "title",
+            "label": "Title 1",
+            "value": null,
+            "variant": "h1",
+            "icon": "sicon-format-text"
+        },
+        {
+            "id": "title_2",
+            "type": "static",
+            "format": "title",
+            "label": "Title 2",
+            "value": null,
+            "variant": "h1",
+            "icon": "sicon-format-text"
         }
     ],
     "components": [
