@@ -33,7 +33,7 @@
             "format": "switch",
             "required": false,
             "value": false,
-            "selected": false
+            "selected": true
         },
         {
             "type": "static",
@@ -56,7 +56,7 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": false
+            "selected": true
         },
         {
             "type": "static",
@@ -79,7 +79,7 @@
             "format": "switch",
             "required": false,
             "value": true,
-            "selected": false
+            "selected": true
         },
         {
             "type": "static",
@@ -128,6 +128,21 @@
                     "label": "اظهار الصورة كاملةً في المنتصف (Contain)",
                     "value": "contain",
                     "key": "f4adec13-6e4c-433b-b141-b2807935ced9"
+                },
+                {
+                    "label": "تغطية الصورة كامل المساحة مع المحافظة على النسبة الصورة (Cover)",
+                    "value": "cover",
+                    "key": "e9c8ea8f-c5c6-438e-9d45-3bce269afde4"
+                },
+                {
+                    "label": "عرض الصورة بحجمها الأصلي بغض النظر عن أبعاد المساحة (None)",
+                    "value": "none",
+                    "key": "cca8f441-455a-4ab9-873d-a742d1656b39"
+                },
+                {
+                    "label": "تمدد الصورة لتملئ لكامل المساحة (Fill)",
+                    "value": "fill",
+                    "key": "12e14314-b383-4912-931b-48377d51163d"
                 }
             ],
             "options": [
